@@ -1,4 +1,5 @@
-Restaurant Menu =============== 
-Burger: 200 
+Restaurant Menu 
+=============== 
+Burger: 220 
 Pizza: 550
 Pasta: 300
