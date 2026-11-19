@@ -1,4 +1,4 @@
 Restaurant Menu =============== 
 Burger: 200 
-Pizza: 500 
+Pizza: 550
 Pasta: 300
